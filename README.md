@@ -62,9 +62,7 @@ ERD memakai notasi Chen: persegi panjang untuk entitas, oval untuk atribut, dan 
    git clone https://github.com/AnggaDestara/Tubes-Basis-Data.git event_management
    ```
 3. Buka **phpMyAdmin** , lalu import `database.sql`
-4. Cek `config/database.php` (default: host `localhost`, user `root`, password kosong).
-5. Cek `BASE_URL` di `includes/functions.php` (default `/event_management`, sesuaikan dengan nama folder).
-6. Buka `http://localhost/event_management/` di browser.
+4. Buka `http://localhost/event_management/` di browser.
 
 ## Akun Demo
 | Role | Email | Password |
