@@ -34,7 +34,7 @@ Web manajemen event berbasis **PHP Native** dan **MySQL** (Laragon). Admin dapat
 |---|---|
 | Bahasa | PHP 8 (native, tanpa framework) |
 | Database | MySQL (via Laragon), akses memakai PDO |
-| Frontend | HTML, CSS (tema merah marun) |
+| Frontend | HTML, CSS |
 | Server lokal | Laragon (Apache + MySQL) |
 
 ## ERD
