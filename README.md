@@ -7,7 +7,7 @@ Web manajemen event berbasis **PHP Native** dan **MySQL** (Laragon). Admin dapat
 ## Daftar Isi
 1. [Fitur](#fitur)
 2. [Teknologi](#teknologi)
-3. [ERD dan Struktur Database](#erd-dan-struktur-database)
+3. [ERD](#erd-dan-struktur-database)
 4. [Cara Instalasi](#cara-instalasi)
 5. [Akun Demo](#akun-demo)
 6. [Screenshot dan Penjelasan](#screenshot-dan-penjelasan)
