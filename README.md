@@ -7,7 +7,7 @@ Web manajemen event berbasis **PHP Native** dan **MySQL** (Laragon). Admin dapat
 ## Daftar Isi
 1. [Fitur](#fitur)
 2. [Komponen yang digunakan](#Komponen-yang-digunakan)
-3. [ERD & Struktur Database](#ERD-&-Struktur-Database)
+3. [ERD & Struktur Database](#ERD-&-StrukturDatabase)
 4. [Cara Instalasi](#cara-instalasi)
 5. [Akun Demo](#akun-demo)
 6. [Screenshot dan Penjelasan](#screenshot-dan-penjelasan)
@@ -37,13 +37,13 @@ Web manajemen event berbasis **PHP Native** dan **MySQL** (Laragon). Admin dapat
 | Frontend | HTML, CSS (tema merah marun) |
 | Server lokal | Laragon (Apache + MySQL) |
 
-## ERD & Struktur Database
+## ERD & StrukturDatabase
 
 ![ERD](screenshots/erd.png)
 
 ERD memakai notasi Chen: persegi panjang untuk entitas, oval untuk atribut, dan belah ketupat untuk relasi beserta kardinalitasnya (1 dan N).
 
-![Struktur Database](screenshots/Struktur-Database.png)
+![StrukturDatabase](screenshots/Struktur-Database.png)
 
 | Tabel | Fungsi |
 |---|---|
